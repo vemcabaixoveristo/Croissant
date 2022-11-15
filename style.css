@@ -1,0 +1,16 @@
+.container {
+    margin-top: 50px;
+    max-width: 700px;
+
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    max-width: 350px;
+    margin: 10px auto;
+}
+
+.photo {
+    width: 90%;
+}
